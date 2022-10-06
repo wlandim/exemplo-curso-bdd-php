@@ -1,0 +1,18 @@
+{
+    "name": "landim/notas",
+    "autoload": {
+        "psr-4": {
+            "Landim\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wagner Nunes Landim Junior",
+            "email": "wagner.junior@deal.com.br"
+        }
+    ],
+    "require-dev": {
+        "behat/behat": "^3.11",
+        "phpunit/phpunit": "^9.5"
+    }
+}
